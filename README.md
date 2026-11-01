@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/RISC--V-D01012?style=flat-square&logo=riscv&logoColor=white)
+![](https://img.shields.io/badge/Prolog-74283C?style=flat-square&logo=duolingo&logoColor=white)
 
 **Currently learning**  
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
