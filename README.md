@@ -28,6 +28,8 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+🎓**University Projects:** [IST Portfolio](https://github.com/a-sopa/a-sopa/blob/main/ist.md)
+
 ---
 
 ### 📊 GitHub Stats
