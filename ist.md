@@ -14,7 +14,7 @@ Throughout my ongoing studies at IST, I've been working on various course projec
   * Project (Mini-Transformer): [`a-sopa/Mini-Transformer`](https://github.com/a-sopa/Mini-Transformer)
 * **LP** — Lógica para Programação
   * Project: [`a-sopa/LP-Project`](https://github.com/a-sopa/LP-Project)
-* **IAED** — Introdução à Algoritmia e Estruturas de Dados
+* **IAED** — Introdução aos Algoritmos e Estruturas de Dados
   * Projects: [`a-sopa/invoicing-software`](https://github.com/a-sopa/invoicing-software)
 
 ### 2nd Year
