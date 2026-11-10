@@ -15,18 +15,19 @@
 ### 💻 Tech Stack
 
 **Languages**  
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/RISC--V-D01012?style=flat-square&logo=riscv&logoColor=white)
-![](https://img.shields.io/badge/Prolog-74283C?style=flat-square&logo=duolingo&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/RISC--V-D01012?style=flat&logo=riscv&logoColor=white)
+![](https://img.shields.io/badge/Prolog-74283C?style=flat&logo=duolingo&logoColor=white)
 
 **Currently learning**  
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 **Tools**  
-![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 🎓**University Projects:** [IST Portfolio](https://github.com/a-sopa/a-sopa/blob/main/ist.md)
 
