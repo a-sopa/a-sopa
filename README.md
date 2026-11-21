@@ -28,6 +28,7 @@
 **Tools**  
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 🎓**University Projects:** [IST Portfolio](https://github.com/a-sopa/a-sopa/blob/main/ist.md)
 
