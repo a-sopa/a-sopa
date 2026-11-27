@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/RISC--V-D01012?style=flat&logo=riscv&logoColor=white)
-![](https://img.shields.io/badge/Prolog-74283C?style=flat&logo=duolingo&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Prolog-74283C?style=flat&logo=duolingo&logoColor=white) !-->
 
 **Currently learning**  
 ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-sopa&layout=compact&theme=tokyonight&forks=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=a-sopa&layout=compact&theme=tokyonight&forks=true&hide=prolog" height="150" />
 </p>
